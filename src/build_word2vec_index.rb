@@ -17,6 +17,7 @@ EOF_LICENSE
 
 require 'matrix'
 require 'scanf'
+require 'json'
 
 require 'rubygems'
 require 'gsl'
